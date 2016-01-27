@@ -1,6 +1,6 @@
 name: AustinBiz-Dot-Rocks - A b2b Vlogging Web Series
 favicon: null
-layout_spectrum: 0.75542
+layout_spectrum: 0.64337
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.1875
+  brandStrength: 0.25
   lightness: 0.0771190645173192
   saturation: 0.44712021737359464
   rhythmicContrast: 0.11803267244249582
