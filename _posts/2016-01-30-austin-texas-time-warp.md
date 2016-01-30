@@ -34,8 +34,8 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/41027991'
 title: 'Austin Texas: Time Warp!'
-datePublished: '2016-01-30T19:23:18.424Z'
-dateModified: '2016-01-30T19:11:39.901Z'
+datePublished: '2016-01-30T19:32:00.458Z'
+dateModified: '2016-01-30T19:30:47.867Z'
 sourcePath: _posts/2016-01-30-austin-texas-time-warp.md
 published: true
 inFeed: true
