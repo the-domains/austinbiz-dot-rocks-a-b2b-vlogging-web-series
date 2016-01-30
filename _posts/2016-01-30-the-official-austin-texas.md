@@ -34,8 +34,8 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/55546048'
 title: The Official Austin Texas
-datePublished: '2016-01-30T19:13:52.731Z'
-dateModified: '2016-01-30T19:11:20.805Z'
+datePublished: '2016-01-30T19:23:09.199Z'
+dateModified: '2016-01-30T19:16:41.584Z'
 sourcePath: _posts/2016-01-30-the-official-austin-texas.md
 published: true
 inFeed: true
