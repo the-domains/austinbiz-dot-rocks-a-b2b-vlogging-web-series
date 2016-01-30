@@ -34,8 +34,8 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/115281190'
 title: Old School Austin Groove
-datePublished: '2016-01-30T19:20:14.140Z'
-dateModified: '2016-01-30T19:05:29.035Z'
+datePublished: '2016-01-30T19:22:45.800Z'
+dateModified: '2016-01-30T19:21:51.599Z'
 sourcePath: _posts/2016-01-30-old-school-austin-groove.md
 published: true
 inFeed: true
