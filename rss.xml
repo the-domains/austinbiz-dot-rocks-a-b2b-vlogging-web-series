@@ -4,8 +4,22 @@
         <description><![CDATA[AustinBiz-Dot-Rocks - A b2b Vlogging Web Series]]></description>
         <link>https://thegrid.ai/austinbiz-dot-rocks-a-b2b-vlogging-web-series/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 19:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 19:28:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/austinbiz-dot-rocks-a-b2b-vlogging-web-series/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Official Austin Texas]]></title>
+            <description><![CDATA[<article><h1>The Official Austin Texas</h1><p>Recorded live in Austin, TX!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8762b71302c1be54e9a908e26fc31b20c760a9aa.jpg"></article>]]></description>
+            <link>https://vimeo.com/55546048</link>
+            <guid isPermaLink="false">afd1e145-ed40-4b7e-b7ab-bd79ccef790c</guid>
+            <pubDate>Sat, 30 Jan 2016 19:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Old School Austin Groove]]></title>
+            <description><![CDATA[<article><h1>Old School Austin Groove</h1><p>This groovin' track is a collaboration between cosmic rockers Shawn Sahm (son of Sir Doug) and Kevin Russell (Shinyribs). It was written and recorded for the documentary Crazy Carl and His Man-Boobs: An Austin Love Story. The movie is online for free at http://beefandpie.com/crazy-carl.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b7a0e886303bd7756681a739637b403c7338345.jpg"></article>]]></description>
+            <link>https://vimeo.com/115281190</link>
+            <guid isPermaLink="false">54c30a15-7f8c-45fc-ab4b-6ce5093fc37a</guid>
+            <pubDate>Sat, 30 Jan 2016 19:22:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sleepwalking Austin]]></title>
             <description><![CDATA[<article><h1>Sleepwalking Austin</h1><p>A surreal journey by night across Austin. Shot in the spring of 2013, Sleepwalking Austin was an early experiment in developing my own motion timelapse and hyperlapse techniques. A night owl by nature, my aim with this project was to capture the dreamlike late night scenery of Austin that I have come to love.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10959c39fd190fa5daae1db66a5d20f7f6efd9e1.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://vimeo.com/119376319</link>
             <guid isPermaLink="false">58ff8895-c04c-4ab9-9aea-f79f24088aa7</guid>
             <pubDate>Sat, 30 Jan 2016 19:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spectral Austin]]></title>
-            <description><![CDATA[<article><h1>Spectral Austin</h1><p>Three summer days and three summer nights in Austin. "Spectral Austin" was shot in the summer of 2013 as my second solo timelapse and hyperlapse project. My goal was to present the city by both day and night, showing the perpetual beauty of our bustling hill country capital during my favorite season of the year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24590c0a8dd410448965e24330a58e30a60bc749.jpg"></article>]]></description>
-            <link>https://vimeo.com/75772766</link>
-            <guid isPermaLink="false">7ef6155a-c920-444e-b2b0-34a9ba7d13e3</guid>
-            <pubDate>Sat, 30 Jan 2016 19:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Riding the Light]]></title>
-            <description><![CDATA[<article><h1>Riding the Light</h1><p>Take a soaring journey across Austin, the Live Music Capital of the World. Shot in the winter of 2014-2013, "Riding the Light" presents the Austin skyline as you've never seen it before. I'm excited and proud to share this short film, my third solo hyperlapse cityscape project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14bfc87f21cf2747dffb7f5709657ae1e6ca9aec.jpg"></article>]]></description>
-            <link>https://vimeo.com/87566725</link>
-            <guid isPermaLink="false">b56bd9b6-1328-446f-82a1-5bdaee2334f4</guid>
-            <pubDate>Sat, 30 Jan 2016 19:12:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
