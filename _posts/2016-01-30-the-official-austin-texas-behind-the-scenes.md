@@ -17,8 +17,8 @@ keywords:
   - kick
   - answered
 description: 'Recorded live in Austin, TX Compiled by Luke Strahm'
-datePublished: '2016-03-04T04:31:23.464Z'
-dateModified: '2016-03-04T04:31:12.588Z'
+datePublished: '2016-03-04T04:34:21.332Z'
+dateModified: '2016-03-04T04:31:32.251Z'
 author:
   - name: North 40 Productions
     url: 'http://vimeo.com/north40productions'
